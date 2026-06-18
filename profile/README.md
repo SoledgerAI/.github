@@ -1,6 +1,6 @@
 # SoledgerAI
 
-SoledgerAI builds AI-enabled systems for governed, domain-driven software generation.
+SoledgerAI builds AI-native systems for governed, domain-driven software generation.
 
 We believe serious AI software should not begin with code.
 
@@ -47,9 +47,7 @@ This repo defines a repeatable structure for building applications with AI codin
 
 Repository:
 
-```txt
-https://github.com/SoledgerAI/app-constitution-template
-```
+[app-constitution-template](https://github.com/SoledgerAI/app-constitution-template)
 
 Core rule:
 
